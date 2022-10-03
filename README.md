@@ -1,2 +1,2 @@
 # Week-assessment
-For Xccelerate
+For week 2 and forward assessments
